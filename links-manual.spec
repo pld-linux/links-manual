@@ -8,6 +8,7 @@ Release:	1
 License:	Free
 Group:		Documentation
 Source0:	http://links.sourceforge.net/download/docs/manual-%{version}-en.tar.bz2
+# Source0-md5:	947950d4974c25f95f1a3988bf88cb21
 URL:		http://links.sourceforge.net/#man
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
