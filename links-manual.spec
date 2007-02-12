@@ -1,7 +1,7 @@
 %define _noautocompressdoc *.txt
 
 Summary:	Links User Reference Manual
-Summary(pl):	Podrêcznik U¿ytkownika Linksa
+Summary(pl.UTF-8):   PodrÄ™cznik UÅ¼ytkownika Linksa
 Name:		links-manual
 Version:	0.82
 Release:	1
@@ -19,11 +19,11 @@ This manual has been designed and written to be:
  - easy to navigate with plenty of hypertext links,
  - displayed in Links!
 
-%description -l pl
-Ten podrêcznik zosta³ stworzony i napisany aby byæ:
- - kompletn± informacj± na temat Linksa,
- - dokumentem ³atwym w nawigacji i zawieraj±cym wiele odno¶ników,
- - wy¶wietlanym przez Linksa!
+%description -l pl.UTF-8
+Ten podrÄ™cznik zostaÅ‚ stworzony i napisany aby byÄ‡:
+ - kompletnÄ… informacjÄ… na temat Linksa,
+ - dokumentem Å‚atwym w nawigacji i zawierajÄ…cym wiele odnoÅ›nikÃ³w,
+ - wyÅ›wietlanym przez Linksa!
 
 %prep
 %setup -q -n manual-%{version}-en
