@@ -1,7 +1,7 @@
 %define _noautocompressdoc *.txt
 
 Summary:	Links User Reference Manual
-Summary(pl.UTF-8):   Podręcznik Użytkownika Linksa
+Summary(pl.UTF-8):	Podręcznik Użytkownika Linksa
 Name:		links-manual
 Version:	0.82
 Release:	1
